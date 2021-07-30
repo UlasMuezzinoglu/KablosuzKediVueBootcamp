@@ -8,7 +8,7 @@ const app = Vue.createApp({
                 target : "_blank",
                 url: "http://eduflow.kablosuzkedi.com",
                 alt : "müfredat-kablosuzkedi-vue-bootcamp",
-                owner : "pogacaa"
+                owner : "pogaca"
             },
             
         }
